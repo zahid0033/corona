@@ -2,7 +2,7 @@
   "name": "corona",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zahid0033.github.io/corona",
+  "homepage": "http://zahid0033.github.io/corona",
   "dependencies": {
     "@material-ui/core": "^4.9.10",
     "@testing-library/jest-dom": "^4.2.4",
